@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student<br>Working On Website Development
+I'm a Computer Science student<br>Working On Web Development
 
 
 ## 🌐 Socials:
